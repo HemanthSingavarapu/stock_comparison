@@ -3,3 +3,5 @@ pandas
 numPy 
 plotly 
 scikit-learn 
+yahoo finance
+yfinance
